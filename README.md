@@ -1,6 +1,6 @@
 # covid-dashboard-tableau
 
-- [COVID-19 Dashboard](https://public.tableau.com/app/profile/ericyung1998/viz/COVID-Dashboard_16470217905280/OverviewD) operable with Tableau
+- [Dashboard](https://public.tableau.com/app/profile/ericyung1998/viz/COVID-Dashboard_16470217905280/OverviewD) with information on COVID-19 overview and statistics by country on Tableau.
 
 <br>
 
